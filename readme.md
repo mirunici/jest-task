@@ -38,7 +38,7 @@ The API were tested using Postamn
 ![screenshot](./img/frontend.png)
 
 ## "If I had more time"
-- More tests:
+- More tests:<br>
 POST /superheros - Score out of range - Ensure that an error is thrown when the score is out of range.<br>
 POST /superheros - Invalid data types - Ensure that the server throws an error if the data types of the fields are incorrect.
 

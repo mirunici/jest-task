@@ -1,0 +1,41 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;  
+  background-color:  #eaeafb;
+  font-family:"Inter";
+  font-weight: bold;
+}
+
+label {
+  display:inline-block;
+  width:100px;
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+button {
+  padding: 14px 24px;
+  background-color: #5454de;
+  border-radius: 20px;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: 120px;
+  font-family:"Inter";
+}
+
+h2 {
+  display: flex;  
+  justify-content: center;  
+  margin-bottom: 5px;
+}
+
+table{
+  margin-left: 30px;
+  justify-content: center;  
+  border-spacing:25px; 
+}
+
+th, td {
+  text-align: center;
+}

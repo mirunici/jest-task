@@ -74,3 +74,11 @@ Allow users to vote for the "Best Hero"
 Option 1: For this, there should be an input field where each user can write the name of their favorite superhero, and these will be counted.Based on the number of votes, the "best hero" should be displayed.
 
 Option 2: Each of the top 10 heroes should have a "VOTE ME" button associated with it and users would just press the button to vote. These would be counted and based on the number of votes, the "best hero" should be displayed.
+
+[Click here to view the app.controller.ts file](./task/src/app.controller.ts)
+[Click here to view the api.controller.spec file](./task/src/app.controller.spec.ts)
+[Click here to view the App.js file](./frontend/src/App.js)
+[Click here to view the App.css file](./frontend/src/App.css)
+
+
+                               

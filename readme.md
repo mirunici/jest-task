@@ -39,7 +39,7 @@ The API were tested using Postamn
 
 ## "If I had more time"
 - More tests:
-POST /superheros - Score out of range - Ensure that an error is thrown when the score is out of range.
+POST /superheros - Score out of range - Ensure that an error is thrown when the score is out of range.<br>
 POST /superheros - Invalid data types - Ensure that the server throws an error if the data types of the fields are incorrect.
 
 - Type validation and error handling for properties (name, superpower and number) in both React (frontend) and NestJS (backend)

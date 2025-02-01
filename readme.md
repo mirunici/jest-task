@@ -75,8 +75,8 @@ Option 1: For this, there should be an input field where each user can write the
 
 Option 2: Each of the top 10 heroes should have a "VOTE ME" button associated with it and users would just press the button to vote. These would be counted and based on the number of votes, the "best hero" should be displayed.
 
-[Click here to view the app.controller.ts file](./task/src/api/app.controller.ts)<br>
-[Click here to view the api.controller.spec file](./task/src/api/app.controller.spec.ts)<br>
+[Click here to view the api.controller.ts file](./task/src/api/api.controller.ts)<br>
+[Click here to view the api.controller.spec file](./task/src/api/api.controller.spec.ts)<br>
 [Click here to view the App.js file](./frontend/src/App.js)<br>
 [Click here to view the App.css file](./frontend/src/App.css)
 

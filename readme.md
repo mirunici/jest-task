@@ -23,7 +23,7 @@ This project aims to allow users to add a hero (name, superpower and score) and 
 - Get the list of heroes sorted by score. 
 - Validation to ensure the score is a number between 1 and 10 
 - Jest test for 2 endpoints : 
-The GET test ensures that a list of heroes is received and that it returns an array of heroes.
+The GET test ensures that a list of heroes is received and that it returns an array of heroes.<br>
 The POST test ensures that a new hero can be added and that the response contains the correct details of the hero.
 - React interface where users can add superheroes and see the sorted list in real-time.
 
